@@ -1,0 +1,17 @@
+{
+    "name": "zero/rotas_simples",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Silva",
+            "email": "a.silva@mailfence.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5"
+    }
+}
